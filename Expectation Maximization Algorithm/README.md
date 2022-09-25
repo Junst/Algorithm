@@ -1,3 +1,5 @@
+https://github.com/Junst/Expectation-Maximization-for-Gaussian-Mixture-Model
+
 # Expectation-Maximization-for-Gaussian-Mixture-Model
 Gaussian Mixture Model (GMM)을 활용한 Probabilistic Density Function(PDF) estimation 및 Expectation Maximization (EM) 알고리즘
 
